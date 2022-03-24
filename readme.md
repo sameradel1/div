@@ -21,7 +21,7 @@
 
 
 ## Git branching-model
-![alt](./Git-branching-model.png)
+![alt](git-branching-model.png)
 
 
 
