@@ -1,0 +1,15 @@
+diff --git a/index.html b/index.html
+index fcde221..ebf2f3a 100644
+--- a/index.html
++++ b/index.html
+@@ -1,9 +1,7 @@
+ <!DOCTYPE html>
+ <html>
+-
+ <head>
+-
+-
++    <title>Dev</title>
+     <body>
+      <header>
+          <nav>
